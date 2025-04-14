@@ -1,4 +1,4 @@
-# Introduction-a-la-Cybersecurite
+# Introduction to Cybersecurity
 
 ## Audience
 I had the opportunity to present an introduction to cybersecurity to the French expat community in the UAE. This group, which frequently travels and relies heavily on digital communication, often lacks awareness about cybersecurity, especially among those not working for large companies with comprehensive training programs. My presentation aimed to address this gap and provide essential knowledge to help them navigate the digital world more securely.
